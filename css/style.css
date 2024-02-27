@@ -769,7 +769,8 @@ h3.my-profession {
 .img-overlay-text {
   /* color: var(--text-black-700); */
   /* color: var(--skin-color); */
-  color: var(--text-black-900);
+  /* color: var(--text-black-900); */
+  color: #ffffff;
   font-size: 18px;
   text-align: center;
   font-weight: 500;
